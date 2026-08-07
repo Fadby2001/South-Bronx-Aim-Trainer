@@ -4,7 +4,7 @@ local GamePlaceIDs = {
 }
 
 if not GamePlaceIDs[game.PlaceId] then
-    game.Players.LocalPlayer:Kick("KagiHub | This game is not supported.")
+    game.Players.LocalPlayer:Kick("NVXHUB | This game is not supported.")
     return
 end
 
